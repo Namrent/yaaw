@@ -1,0 +1,9 @@
+{
+  "name": "yaawui",
+  "description": "yaaw for ar2 ui",
+  "website": "https://github.com/Namrent/yaaw",
+  "repository": "https://github.com/Namrent/yaaw",
+  "success_url": "index.html",
+  "env":{
+  }
+}
